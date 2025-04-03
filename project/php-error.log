@@ -1,0 +1,322 @@
+[31-Mar-2025 08:52:56 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in C:\Users\vaibhavapriya\php\project\models\createTicket.php:18
+Stack trace:
+#0 C:\Users\vaibhavapriya\php\project\models\createTicket.php(18): mysqli_stmt->bind_param('isssssssbs', 1, 'vaibhavapriyand...', 'last', 'high', 'last', 'last', '[]', '\xFF\xD8\xFF\xE0\x00\x10JFIF\x00\x01\x01\x01\x01...', 'image/jpeg')
+#1 C:\Users\vaibhavapriya\php\project\controllers\createTicket.php(70): createTicket(1, 'vaibhavapriyand...', 'last', 'high', 'last', 'last', '[]', '\xFF\xD8\xFF\xE0\x00\x10JFIF\x00\x01\x01\x01\x01...', 'image/jpeg')
+#2 C:\Users\vaibhavapriya\php\project\routes\routes.php(61): storePost()
+#3 C:\Users\vaibhavapriya\php\project\index.php(14): require_once('C:\\Users\\vaibha...')
+#4 {main}
+  thrown in C:\Users\vaibhavapriya\php\project\models\createTicket.php on line 18
+[31-Mar-2025 08:54:36 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in C:\Users\vaibhavapriya\php\project\models\createTicket.php:43
+Stack trace:
+#0 C:\Users\vaibhavapriya\php\project\models\createTicket.php(43): mysqli_stmt->bind_param('isssssssbs', 1, 'vaibhavapriyand...', 'last', 'high', 'last', 'last', '[]', '\xFF\xD8\xFF\xE0\x00\x10JFIF\x00\x01\x01\x01\x01...', 'image/jpeg')
+#1 C:\Users\vaibhavapriya\php\project\controllers\createTicket.php(70): createTicket(1, 'vaibhavapriyand...', 'last', 'high', 'last', 'last', '[]', '\xFF\xD8\xFF\xE0\x00\x10JFIF\x00\x01\x01\x01\x01...', 'image/jpeg')
+#2 C:\Users\vaibhavapriya\php\project\routes\routes.php(61): storePost()
+#3 C:\Users\vaibhavapriya\php\project\index.php(14): require_once('C:\\Users\\vaibha...')
+#4 {main}
+  thrown in C:\Users\vaibhavapriya\php\project\models\createTicket.php on line 43
+[31-Mar-2025 08:54:37 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in C:\Users\vaibhavapriya\php\project\models\createTicket.php:43
+Stack trace:
+#0 C:\Users\vaibhavapriya\php\project\models\createTicket.php(43): mysqli_stmt->bind_param('isssssssbs', 1, 'vaibhavapriyand...', 'last', 'high', 'last', 'last', '[]', '\xFF\xD8\xFF\xE0\x00\x10JFIF\x00\x01\x01\x01\x01...', 'image/jpeg')
+#1 C:\Users\vaibhavapriya\php\project\controllers\createTicket.php(70): createTicket(1, 'vaibhavapriyand...', 'last', 'high', 'last', 'last', '[]', '\xFF\xD8\xFF\xE0\x00\x10JFIF\x00\x01\x01\x01\x01...', 'image/jpeg')
+#2 C:\Users\vaibhavapriya\php\project\routes\routes.php(61): storePost()
+#3 C:\Users\vaibhavapriya\php\project\index.php(14): require_once('C:\\Users\\vaibha...')
+#4 {main}
+  thrown in C:\Users\vaibhavapriya\php\project\models\createTicket.php on line 43
+[31-Mar-2025 08:54:38 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in C:\Users\vaibhavapriya\php\project\models\createTicket.php:43
+Stack trace:
+#0 C:\Users\vaibhavapriya\php\project\models\createTicket.php(43): mysqli_stmt->bind_param('isssssssbs', 1, 'vaibhavapriyand...', 'last', 'high', 'last', 'last', '[]', '\xFF\xD8\xFF\xE0\x00\x10JFIF\x00\x01\x01\x01\x01...', 'image/jpeg')
+#1 C:\Users\vaibhavapriya\php\project\controllers\createTicket.php(70): createTicket(1, 'vaibhavapriyand...', 'last', 'high', 'last', 'last', '[]', '\xFF\xD8\xFF\xE0\x00\x10JFIF\x00\x01\x01\x01\x01...', 'image/jpeg')
+#2 C:\Users\vaibhavapriya\php\project\routes\routes.php(61): storePost()
+#3 C:\Users\vaibhavapriya\php\project\index.php(14): require_once('C:\\Users\\vaibha...')
+#4 {main}
+  thrown in C:\Users\vaibhavapriya\php\project\models\createTicket.php on line 43
+[31-Mar-2025 08:58:17 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in C:\Users\vaibhavapriya\php\project\models\createTicket.php:43
+Stack trace:
+#0 C:\Users\vaibhavapriya\php\project\models\createTicket.php(43): mysqli_stmt->bind_param('isssssssbs', 1, 'vaibhavapriyand...', 'last', 'high', 'last', 'last', '[]', '\xFF\xD8\xFF\xE0\x00\x10JFIF\x00\x01\x01\x01\x01...', 'image/jpeg')
+#1 C:\Users\vaibhavapriya\php\project\controllers\createTicket.php(70): createTicket(1, 'vaibhavapriyand...', 'last', 'high', 'last', 'last', '[]', '\xFF\xD8\xFF\xE0\x00\x10JFIF\x00\x01\x01\x01\x01...', 'image/jpeg')
+#2 C:\Users\vaibhavapriya\php\project\routes\routes.php(61): storePost()
+#3 C:\Users\vaibhavapriya\php\project\index.php(14): require_once('C:\\Users\\vaibha...')
+#4 {main}
+  thrown in C:\Users\vaibhavapriya\php\project\models\createTicket.php on line 43
+[31-Mar-2025 08:58:43 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in C:\Users\vaibhavapriya\php\project\models\createTicket.php:43
+Stack trace:
+#0 C:\Users\vaibhavapriya\php\project\models\createTicket.php(43): mysqli_stmt->bind_param('isssssssbs', 1, 'vaibhavapriyand...', 'new', 'high', 'new', 'new', '[]', '\x89PNG\r\n\x1A\n\x00\x00\x00\rIHD...', 'image/png')
+#1 C:\Users\vaibhavapriya\php\project\controllers\createTicket.php(70): createTicket(1, 'vaibhavapriyand...', 'new', 'high', 'new', 'new', '[]', '\x89PNG\r\n\x1A\n\x00\x00\x00\rIHD...', 'image/png')
+#2 C:\Users\vaibhavapriya\php\project\routes\routes.php(61): storePost()
+#3 C:\Users\vaibhavapriya\php\project\index.php(14): require_once('C:\\Users\\vaibha...')
+#4 {main}
+  thrown in C:\Users\vaibhavapriya\php\project\models\createTicket.php on line 43
+[31-Mar-2025 09:32:24 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\vaibhavapriya\php\project\controllers/../views/forgotPassword.php' (include_path='C:\xampp\php\PEAR') in C:\Users\vaibhavapriya\php\project\controllers\forgotpassword.php:9
+Stack trace:
+#0 C:\Users\vaibhavapriya\php\project\routes\routes.php(61): showPostForm()
+#1 C:\Users\vaibhavapriya\php\project\index.php(14): require_once('C:\\Users\\vaibha...')
+#2 {main}
+  thrown in C:\Users\vaibhavapriya\php\project\controllers\forgotpassword.php on line 9
+[31-Mar-2025 09:32:25 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\vaibhavapriya\php\project\controllers/../views/forgotPassword.php' (include_path='C:\xampp\php\PEAR') in C:\Users\vaibhavapriya\php\project\controllers\forgotpassword.php:9
+Stack trace:
+#0 C:\Users\vaibhavapriya\php\project\routes\routes.php(61): showPostForm()
+#1 C:\Users\vaibhavapriya\php\project\index.php(14): require_once('C:\\Users\\vaibha...')
+#2 {main}
+  thrown in C:\Users\vaibhavapriya\php\project\controllers\forgotpassword.php on line 9
+[31-Mar-2025 09:37:37 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\vaibhavapriya\php\project\controllers/../views/resetpassword.php' (include_path='C:\xampp\php\PEAR') in C:\Users\vaibhavapriya\php\project\controllers\resetPassword.php:5
+Stack trace:
+#0 C:\Users\vaibhavapriya\php\project\routes\routes.php(61): showPostForm()
+#1 C:\Users\vaibhavapriya\php\project\index.php(14): require_once('C:\\Users\\vaibha...')
+#2 {main}
+  thrown in C:\Users\vaibhavapriya\php\project\controllers\resetPassword.php on line 5
+[31-Mar-2025 11:06:34 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: function_exists(): Argument #1 ($function) must be of type string, Closure given in C:\Users\vaibhavapriya\php\project\routes\routes.php:43
+Stack trace:
+#0 C:\Users\vaibhavapriya\php\project\routes\routes.php(43): function_exists(Object(Closure))
+#1 C:\Users\vaibhavapriya\php\project\index.php(14): require_once('C:\\Users\\vaibha...')
+#2 {main}
+  thrown in C:\Users\vaibhavapriya\php\project\routes\routes.php on line 43
+[31-Mar-2025 11:51:35 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\vaibhavapriya\php\project\controllers/../middlewares/authMiddleware.php' (include_path='C:\xampp\php\PEAR') in C:\Users\vaibhavapriya\php\project\controllers\ticket.php:4
+Stack trace:
+#0 C:\Users\vaibhavapriya\php\project\routes\routes.php(58): require_once()
+#1 C:\Users\vaibhavapriya\php\project\index.php(14): require_once('C:\\Users\\vaibha...')
+#2 {main}
+  thrown in C:\Users\vaibhavapriya\php\project\controllers\ticket.php on line 4
+[31-Mar-2025 11:52:21 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'message' in 'field list' in C:\Users\vaibhavapriya\php\project\controllers\ticket.php:22
+Stack trace:
+#0 C:\Users\vaibhavapriya\php\project\controllers\ticket.php(22): mysqli->prepare('SELECT id, subj...')
+#1 C:\Users\vaibhavapriya\php\project\routes\routes.php(62): ticketController()
+#2 C:\Users\vaibhavapriya\php\project\index.php(14): require_once('C:\\Users\\vaibha...')
+#3 {main}
+  thrown in C:\Users\vaibhavapriya\php\project\controllers\ticket.php on line 22
+[31-Mar-2025 11:52:22 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'message' in 'field list' in C:\Users\vaibhavapriya\php\project\controllers\ticket.php:22
+Stack trace:
+#0 C:\Users\vaibhavapriya\php\project\controllers\ticket.php(22): mysqli->prepare('SELECT id, subj...')
+#1 C:\Users\vaibhavapriya\php\project\routes\routes.php(62): ticketController()
+#2 C:\Users\vaibhavapriya\php\project\index.php(14): require_once('C:\\Users\\vaibha...')
+#3 {main}
+  thrown in C:\Users\vaibhavapriya\php\project\controllers\ticket.php on line 22
+[31-Mar-2025 11:52:25 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'message' in 'field list' in C:\Users\vaibhavapriya\php\project\controllers\ticket.php:22
+Stack trace:
+#0 C:\Users\vaibhavapriya\php\project\controllers\ticket.php(22): mysqli->prepare('SELECT id, subj...')
+#1 C:\Users\vaibhavapriya\php\project\routes\routes.php(62): ticketController()
+#2 C:\Users\vaibhavapriya\php\project\index.php(14): require_once('C:\\Users\\vaibha...')
+#3 {main}
+  thrown in C:\Users\vaibhavapriya\php\project\controllers\ticket.php on line 22
+[31-Mar-2025 11:52:28 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'message' in 'field list' in C:\Users\vaibhavapriya\php\project\controllers\ticket.php:22
+Stack trace:
+#0 C:\Users\vaibhavapriya\php\project\controllers\ticket.php(22): mysqli->prepare('SELECT id, subj...')
+#1 C:\Users\vaibhavapriya\php\project\routes\routes.php(62): ticketController()
+#2 C:\Users\vaibhavapriya\php\project\index.php(14): require_once('C:\\Users\\vaibha...')
+#3 {main}
+  thrown in C:\Users\vaibhavapriya\php\project\controllers\ticket.php on line 22
+[31-Mar-2025 11:54:51 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\vaibhavapriya\php\project\views/../modules/header.php' (include_path='C:\xampp\php\PEAR') in C:\Users\vaibhavapriya\php\project\views\ticket.view.php:1
+Stack trace:
+#0 C:\Users\vaibhavapriya\php\project\controllers\ticket.php(45): require()
+#1 C:\Users\vaibhavapriya\php\project\routes\routes.php(62): ticketController()
+#2 C:\Users\vaibhavapriya\php\project\index.php(14): require_once('C:\\Users\\vaibha...')
+#3 {main}
+  thrown in C:\Users\vaibhavapriya\php\project\views\ticket.view.php on line 1
+[31-Mar-2025 11:54:52 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\vaibhavapriya\php\project\views/../modules/header.php' (include_path='C:\xampp\php\PEAR') in C:\Users\vaibhavapriya\php\project\views\ticket.view.php:1
+Stack trace:
+#0 C:\Users\vaibhavapriya\php\project\controllers\ticket.php(45): require()
+#1 C:\Users\vaibhavapriya\php\project\routes\routes.php(62): ticketController()
+#2 C:\Users\vaibhavapriya\php\project\index.php(14): require_once('C:\\Users\\vaibha...')
+#3 {main}
+  thrown in C:\Users\vaibhavapriya\php\project\views\ticket.view.php on line 1
+[31-Mar-2025 11:54:56 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\vaibhavapriya\php\project\views/../modules/header.php' (include_path='C:\xampp\php\PEAR') in C:\Users\vaibhavapriya\php\project\views\ticket.view.php:1
+Stack trace:
+#0 C:\Users\vaibhavapriya\php\project\controllers\ticket.php(45): require()
+#1 C:\Users\vaibhavapriya\php\project\routes\routes.php(62): ticketController()
+#2 C:\Users\vaibhavapriya\php\project\index.php(14): require_once('C:\\Users\\vaibha...')
+#3 {main}
+  thrown in C:\Users\vaibhavapriya\php\project\views\ticket.view.php on line 1
+[01-Apr-2025 08:15:48 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "JWT" not found in C:\Users\vaibhavapriya\php\project\controllers\login.php:74
+Stack trace:
+#0 C:\Users\vaibhavapriya\php\project\routes\routes.php(62): storePost()
+#1 C:\Users\vaibhavapriya\php\project\index.php(14): require_once('C:\\Users\\vaibha...')
+#2 {main}
+  thrown in C:\Users\vaibhavapriya\php\project\controllers\login.php on line 74
+[01-Apr-2025 08:17:22 Europe/Berlin] PHP Fatal error:  Uncaught InvalidArgumentException: key must be a string when using hmac in C:\Users\vaibhavapriya\php\project\vendor\firebase\php-jwt\src\JWT.php:249
+Stack trace:
+#0 C:\Users\vaibhavapriya\php\project\vendor\firebase\php-jwt\src\JWT.php(219): Firebase\JWT\JWT::sign('eyJ0eXAiOiJKV1Q...', NULL, 'HS256')
+#1 C:\Users\vaibhavapriya\php\project\controllers\login.php(77): Firebase\JWT\JWT::encode(Array, NULL, 'HS256')
+#2 C:\Users\vaibhavapriya\php\project\routes\routes.php(62): storePost()
+#3 C:\Users\vaibhavapriya\php\project\index.php(14): require_once('C:\\Users\\vaibha...')
+#4 {main}
+  thrown in C:\Users\vaibhavapriya\php\project\vendor\firebase\php-jwt\src\JWT.php on line 249
+[01-Apr-2025 08:25:38 Europe/Berlin] PHP Fatal error:  Uncaught Error: Undefined constant "JWT_SECRET_KEY" in C:\Users\vaibhavapriya\php\project\middlewares\middleware.php:16
+Stack trace:
+#0 C:\Users\vaibhavapriya\php\project\routes\routes.php(44): authMiddleware()
+#1 C:\Users\vaibhavapriya\php\project\index.php(14): require_once('C:\\Users\\vaibha...')
+#2 {main}
+  thrown in C:\Users\vaibhavapriya\php\project\middlewares\middleware.php on line 16
+[01-Apr-2025 08:26:46 Europe/Berlin] PHP Fatal error:  Uncaught Error: Undefined constant "JWT_SECRET_KEY" in C:\Users\vaibhavapriya\php\project\middlewares\middleware.php:16
+Stack trace:
+#0 C:\Users\vaibhavapriya\php\project\routes\routes.php(44): authMiddleware()
+#1 C:\Users\vaibhavapriya\php\project\index.php(14): require_once('C:\\Users\\vaibha...')
+#2 {main}
+  thrown in C:\Users\vaibhavapriya\php\project\middlewares\middleware.php on line 16
+[01-Apr-2025 08:27:09 Europe/Berlin] PHP Fatal error:  Uncaught Error: Undefined constant "JWT_SECRET_KEY" in C:\Users\vaibhavapriya\php\project\middlewares\middleware.php:16
+Stack trace:
+#0 C:\Users\vaibhavapriya\php\project\routes\routes.php(44): authMiddleware()
+#1 C:\Users\vaibhavapriya\php\project\index.php(14): require_once('C:\\Users\\vaibha...')
+#2 {main}
+  thrown in C:\Users\vaibhavapriya\php\project\middlewares\middleware.php on line 16
+[01-Apr-2025 08:30:12 Europe/Berlin] PHP Fatal error:  Uncaught Error: Undefined constant "JWT_SECRET_KEY" in C:\Users\vaibhavapriya\php\project\middlewares\middleware.php:16
+Stack trace:
+#0 C:\Users\vaibhavapriya\php\project\routes\routes.php(44): authMiddleware()
+#1 C:\Users\vaibhavapriya\php\project\index.php(14): require_once('C:\\Users\\vaibha...')
+#2 {main}
+  thrown in C:\Users\vaibhavapriya\php\project\middlewares\middleware.php on line 16
+[01-Apr-2025 08:32:44 Europe/Berlin] PHP Warning:  Undefined variable $jwt_secret in C:\Users\vaibhavapriya\php\project\middlewares\middleware.php on line 16
+[01-Apr-2025 08:32:44 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Key material must be a string, resource, or OpenSSLAsymmetricKey in C:\Users\vaibhavapriya\php\project\vendor\firebase\php-jwt\src\Key.php:26
+Stack trace:
+#0 C:\Users\vaibhavapriya\php\project\middlewares\middleware.php(16): Firebase\JWT\Key->__construct(NULL, 'HS256')
+#1 C:\Users\vaibhavapriya\php\project\routes\routes.php(44): authMiddleware()
+#2 C:\Users\vaibhavapriya\php\project\index.php(14): require_once('C:\\Users\\vaibha...')
+#3 {main}
+  thrown in C:\Users\vaibhavapriya\php\project\vendor\firebase\php-jwt\src\Key.php on line 26
+[01-Apr-2025 08:32:46 Europe/Berlin] PHP Warning:  Undefined variable $jwt_secret in C:\Users\vaibhavapriya\php\project\middlewares\middleware.php on line 16
+[01-Apr-2025 08:32:46 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Key material must be a string, resource, or OpenSSLAsymmetricKey in C:\Users\vaibhavapriya\php\project\vendor\firebase\php-jwt\src\Key.php:26
+Stack trace:
+#0 C:\Users\vaibhavapriya\php\project\middlewares\middleware.php(16): Firebase\JWT\Key->__construct(NULL, 'HS256')
+#1 C:\Users\vaibhavapriya\php\project\routes\routes.php(44): authMiddleware()
+#2 C:\Users\vaibhavapriya\php\project\index.php(14): require_once('C:\\Users\\vaibha...')
+#3 {main}
+  thrown in C:\Users\vaibhavapriya\php\project\vendor\firebase\php-jwt\src\Key.php on line 26
+[01-Apr-2025 08:33:47 Europe/Berlin] PHP Warning:  Undefined property: stdClass::$user_id in C:\Users\vaibhavapriya\php\project\middlewares\middleware.php on line 16
+[01-Apr-2025 09:09:56 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: mysqli_stmt::fetch() expects exactly 0 arguments, 1 given in C:\Users\vaibhavapriya\php\project\middlewares\middleware.php:55
+Stack trace:
+#0 C:\Users\vaibhavapriya\php\project\middlewares\middleware.php(55): mysqli_stmt->fetch(2)
+#1 C:\Users\vaibhavapriya\php\project\routes\routes.php(48): checkTicketOwnership('42')
+#2 C:\Users\vaibhavapriya\php\project\index.php(14): require_once('C:\\Users\\vaibha...')
+#3 {main}
+  thrown in C:\Users\vaibhavapriya\php\project\middlewares\middleware.php on line 55
+[01-Apr-2025 09:09:58 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: mysqli_stmt::fetch() expects exactly 0 arguments, 1 given in C:\Users\vaibhavapriya\php\project\middlewares\middleware.php:55
+Stack trace:
+#0 C:\Users\vaibhavapriya\php\project\middlewares\middleware.php(55): mysqli_stmt->fetch(2)
+#1 C:\Users\vaibhavapriya\php\project\routes\routes.php(48): checkTicketOwnership('42')
+#2 C:\Users\vaibhavapriya\php\project\index.php(14): require_once('C:\\Users\\vaibha...')
+#3 {main}
+  thrown in C:\Users\vaibhavapriya\php\project\middlewares\middleware.php on line 55
+[01-Apr-2025 09:13:53 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\Users\vaibhavapriya\php\project\middlewares\middleware.php on line 51
+[01-Apr-2025 09:13:53 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\Users\vaibhavapriya\php\project\controllers\ticket.php:17
+Stack trace:
+#0 C:\Users\vaibhavapriya\php\project\routes\routes.php(69): ticketController()
+#1 C:\Users\vaibhavapriya\php\project\index.php(14): require_once('C:\\Users\\vaibha...')
+#2 {main}
+  thrown in C:\Users\vaibhavapriya\php\project\controllers\ticket.php on line 17
+[01-Apr-2025 09:13:53 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\Users\vaibhavapriya\php\project\middlewares\middleware.php on line 51
+[01-Apr-2025 09:13:53 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\Users\vaibhavapriya\php\project\controllers\ticket.php:17
+Stack trace:
+#0 C:\Users\vaibhavapriya\php\project\routes\routes.php(69): ticketController()
+#1 C:\Users\vaibhavapriya\php\project\index.php(14): require_once('C:\\Users\\vaibha...')
+#2 {main}
+  thrown in C:\Users\vaibhavapriya\php\project\controllers\ticket.php on line 17
+[01-Apr-2025 09:14:08 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\Users\vaibhavapriya\php\project\controllers\ticket.php:17
+Stack trace:
+#0 C:\Users\vaibhavapriya\php\project\routes\routes.php(69): ticketController()
+#1 C:\Users\vaibhavapriya\php\project\index.php(14): require_once('C:\\Users\\vaibha...')
+#2 {main}
+  thrown in C:\Users\vaibhavapriya\php\project\controllers\ticket.php on line 17
+[01-Apr-2025 09:17:23 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\Users\vaibhavapriya\php\project\controllers\ticket.php:17
+Stack trace:
+#0 C:\Users\vaibhavapriya\php\project\routes\routes.php(69): ticketController()
+#1 C:\Users\vaibhavapriya\php\project\index.php(14): require_once('C:\\Users\\vaibha...')
+#2 {main}
+  thrown in C:\Users\vaibhavapriya\php\project\controllers\ticket.php on line 17
+[01-Apr-2025 09:17:24 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\Users\vaibhavapriya\php\project\controllers\ticket.php:17
+Stack trace:
+#0 C:\Users\vaibhavapriya\php\project\routes\routes.php(69): ticketController()
+#1 C:\Users\vaibhavapriya\php\project\index.php(14): require_once('C:\\Users\\vaibha...')
+#2 {main}
+  thrown in C:\Users\vaibhavapriya\php\project\controllers\ticket.php on line 17
+[01-Apr-2025 09:17:25 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\Users\vaibhavapriya\php\project\controllers\ticket.php:17
+Stack trace:
+#0 C:\Users\vaibhavapriya\php\project\routes\routes.php(69): ticketController()
+#1 C:\Users\vaibhavapriya\php\project\index.php(14): require_once('C:\\Users\\vaibha...')
+#2 {main}
+  thrown in C:\Users\vaibhavapriya\php\project\controllers\ticket.php on line 17
+[01-Apr-2025 09:20:44 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\Users\vaibhavapriya\php\project\controllers\ticket.php:17
+Stack trace:
+#0 C:\Users\vaibhavapriya\php\project\routes\routes.php(69): ticketController()
+#1 C:\Users\vaibhavapriya\php\project\index.php(14): require_once('C:\\Users\\vaibha...')
+#2 {main}
+  thrown in C:\Users\vaibhavapriya\php\project\controllers\ticket.php on line 17
+[01-Apr-2025 09:22:15 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\Users\vaibhavapriya\php\project\controllers\ticket.php:17
+Stack trace:
+#0 C:\Users\vaibhavapriya\php\project\routes\routes.php(69): ticketController()
+#1 C:\Users\vaibhavapriya\php\project\index.php(14): require_once('C:\\Users\\vaibha...')
+#2 {main}
+  thrown in C:\Users\vaibhavapriya\php\project\controllers\ticket.php on line 17
+[01-Apr-2025 11:29:33 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM 
+        tickets
+    LEFT JOIN 
+        user ON tickets.requester_id = u' at line 12 in C:\Users\vaibhavapriya\php\project\controllers\tickets.php:9
+Stack trace:
+#0 C:\Users\vaibhavapriya\php\project\controllers\tickets.php(9): mysqli->prepare('SELECT \r\n      ...')
+#1 C:\Users\vaibhavapriya\php\project\routes\routes.php(72): ticketsController()
+#2 C:\Users\vaibhavapriya\php\project\index.php(14): require_once('C:\\Users\\vaibha...')
+#3 {main}
+  thrown in C:\Users\vaibhavapriya\php\project\controllers\tickets.php on line 9
+[01-Apr-2025 11:30:46 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM 
+        tickets
+    LEFT JOIN 
+        user ON tickets.requester_id = u' at line 13 in C:\Users\vaibhavapriya\php\project\controllers\tickets.php:9
+Stack trace:
+#0 C:\Users\vaibhavapriya\php\project\controllers\tickets.php(9): mysqli->prepare('SELECT \r\n      ...')
+#1 C:\Users\vaibhavapriya\php\project\routes\routes.php(72): ticketsController()
+#2 C:\Users\vaibhavapriya\php\project\index.php(14): require_once('C:\\Users\\vaibha...')
+#3 {main}
+  thrown in C:\Users\vaibhavapriya\php\project\controllers\tickets.php on line 9
+[01-Apr-2025 11:30:47 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM 
+        tickets
+    LEFT JOIN 
+        user ON tickets.requester_id = u' at line 13 in C:\Users\vaibhavapriya\php\project\controllers\tickets.php:9
+Stack trace:
+#0 C:\Users\vaibhavapriya\php\project\controllers\tickets.php(9): mysqli->prepare('SELECT \r\n      ...')
+#1 C:\Users\vaibhavapriya\php\project\routes\routes.php(72): ticketsController()
+#2 C:\Users\vaibhavapriya\php\project\index.php(14): require_once('C:\\Users\\vaibha...')
+#3 {main}
+  thrown in C:\Users\vaibhavapriya\php\project\controllers\tickets.php on line 9
+[01-Apr-2025 11:33:41 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: The number of variables must match the number of parameters in the prepared statement in C:\Users\vaibhavapriya\php\project\controllers\tickets.php:26
+Stack trace:
+#0 C:\Users\vaibhavapriya\php\project\controllers\tickets.php(26): mysqli_stmt->bind_param('s', NULL)
+#1 C:\Users\vaibhavapriya\php\project\routes\routes.php(72): ticketsController()
+#2 C:\Users\vaibhavapriya\php\project\index.php(14): require_once('C:\\Users\\vaibha...')
+#3 {main}
+  thrown in C:\Users\vaibhavapriya\php\project\controllers\tickets.php on line 26
+[01-Apr-2025 11:33:43 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: The number of variables must match the number of parameters in the prepared statement in C:\Users\vaibhavapriya\php\project\controllers\tickets.php:26
+Stack trace:
+#0 C:\Users\vaibhavapriya\php\project\controllers\tickets.php(26): mysqli_stmt->bind_param('s', NULL)
+#1 C:\Users\vaibhavapriya\php\project\routes\routes.php(72): ticketsController()
+#2 C:\Users\vaibhavapriya\php\project\index.php(14): require_once('C:\\Users\\vaibha...')
+#3 {main}
+  thrown in C:\Users\vaibhavapriya\php\project\controllers\tickets.php on line 26
+[01-Apr-2025 11:51:38 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\vaibhavapriya\php\project\controllers/../models/createTicket.php' (include_path='C:\xampp\php\PEAR') in C:\Users\vaibhavapriya\php\project\controllers\createTicket.php:3
+Stack trace:
+#0 C:\Users\vaibhavapriya\php\project\routes\routes.php(68): require_once()
+#1 C:\Users\vaibhavapriya\php\project\index.php(14): require_once('C:\\Users\\vaibha...')
+#2 {main}
+  thrown in C:\Users\vaibhavapriya\php\project\controllers\createTicket.php on line 3
+[01-Apr-2025 11:51:42 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\vaibhavapriya\php\project\controllers/../models/createTicket.php' (include_path='C:\xampp\php\PEAR') in C:\Users\vaibhavapriya\php\project\controllers\createTicket.php:3
+Stack trace:
+#0 C:\Users\vaibhavapriya\php\project\routes\routes.php(68): require_once()
+#1 C:\Users\vaibhavapriya\php\project\index.php(14): require_once('C:\\Users\\vaibha...')
+#2 {main}
+  thrown in C:\Users\vaibhavapriya\php\project\controllers\createTicket.php on line 3
+[01-Apr-2025 11:52:31 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\vaibhavapriya\php\project\controllers/../models/createTicket.php' (include_path='C:\xampp\php\PEAR') in C:\Users\vaibhavapriya\php\project\controllers\createTicket.php:3
+Stack trace:
+#0 C:\Users\vaibhavapriya\php\project\routes\routes.php(68): require_once()
+#1 C:\Users\vaibhavapriya\php\project\index.php(14): require_once('C:\\Users\\vaibha...')
+#2 {main}
+  thrown in C:\Users\vaibhavapriya\php\project\controllers\createTicket.php on line 3
+[01-Apr-2025 12:33:14 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''error_logs' ORDER BY created_at DESC' at line 1 in C:\Users\vaibhavapriya\php\project\controllers\errorLogs.php:9
+Stack trace:
+#0 C:\Users\vaibhavapriya\php\project\controllers\errorLogs.php(9): mysqli->prepare('SELECT id, erro...')
+#1 C:\Users\vaibhavapriya\php\project\routes\routes.php(73): ticketsController()
+#2 C:\Users\vaibhavapriya\php\project\index.php(14): require_once('C:\\Users\\vaibha...')
+#3 {main}
+  thrown in C:\Users\vaibhavapriya\php\project\controllers\errorLogs.php on line 9
+[01-Apr-2025 12:33:15 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''error_logs' ORDER BY created_at DESC' at line 1 in C:\Users\vaibhavapriya\php\project\controllers\errorLogs.php:9
+Stack trace:
+#0 C:\Users\vaibhavapriya\php\project\controllers\errorLogs.php(9): mysqli->prepare('SELECT id, erro...')
+#1 C:\Users\vaibhavapriya\php\project\routes\routes.php(73): ticketsController()
+#2 C:\Users\vaibhavapriya\php\project\index.php(14): require_once('C:\\Users\\vaibha...')
+#3 {main}
+  thrown in C:\Users\vaibhavapriya\php\project\controllers\errorLogs.php on line 9
