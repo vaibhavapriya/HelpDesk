@@ -14,8 +14,8 @@ function sendUserEmail($toEmail, $subject, $message) {
         $mail->isSMTP();
         $mail->Host = 'smtp.gmail.com';
         $mail->SMTPAuth = true;
-        $mail->Username = 'vaibhavapriya39@gmail.com'; // Your email
-        $mail->Password = 'qpfp rdqd ltzz hudq'; // Use App Password if using Gmail
+        $mail->Username = 'youremail'; // Your email
+        $mail->Password = 'your password'; // Use App Password if using Gmail
         $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;
         $mail->Port = 587;
 
